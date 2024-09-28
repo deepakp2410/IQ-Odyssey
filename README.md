@@ -60,6 +60,9 @@
 git clone https://github.com/deepakp2410/iq-odyssey-quiz-game.git
 ```
 
+## Video Demonstration
+Watch the game in action! Check out the video demonstration of IQ Odyssey on my [LinkedIn profile](https://www.linkedin.com/feed/update/urn:li:activity:7245343803765628928/).
+
 ## Future Enhancements
 - Add the ability to pause and resume the timer.
 - Introduce multiple difficulty levels or question categories.
